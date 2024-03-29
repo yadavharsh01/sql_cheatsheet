@@ -1,4 +1,4 @@
-# sql_cheatsheet
+# sql_cheatsheet Quesations
 
 ### What is SQL ?
 ### What is SQL and why is it used ?
